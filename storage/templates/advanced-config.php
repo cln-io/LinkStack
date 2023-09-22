@@ -220,6 +220,7 @@ return [
     | 'button' => 'mastodon'         |
     | 'button' => 'paypal'           |
     | 'button' => 'whatsapp'         |
+    | 'button' => 'mailchimp'        |
     | 'button' => 'xing'             |
     | 'button' => 'buy me a coffee'  |
     | 'button' => 'website'          |
