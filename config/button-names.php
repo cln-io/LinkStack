@@ -21,6 +21,7 @@ $buttonNames = array(
     'last-fm' => 'last.fm',
     'linkedin' => 'linkedIn',
     'linkstack' => 'LinkStack',
+    'mailchimp' => 'Mailchimp',
     'openstreetmap' => 'OpenStreetMap',
     'paypal' => 'PayPal',
     'picarto' => 'Picarto',
