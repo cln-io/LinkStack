@@ -441,6 +441,10 @@ class ButtonSeeder extends Seeder
             [
             'name' => 'firefish'
             ],
+            
+            [
+            'name' => 'mailchimp'
+            ],
         ];
 
          Button::insert($buttons);
