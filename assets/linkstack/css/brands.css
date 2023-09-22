@@ -1202,3 +1202,13 @@ button.button-scribd{
 .button.button-linkstack:focus {
   filter: brightness(90%);
 }
+
+/* Mailchimp */
+.button.button-mailchimp {
+  color: #ffffff;
+  background-color: #455a64;
+}
+.button.button-mailchimp:hover,
+.button.button-mailchimp:focus {
+  filter: brightness(90%);
+}
